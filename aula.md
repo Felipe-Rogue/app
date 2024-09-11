@@ -85,3 +85,12 @@ meta.log(meta.value)
 # Condicionais
 
 - [x] switch
+
+## Módulos em Node.js:
+
+- [x] Importação de módulos (require, CommonJS)
+- [x] Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assíncronas e Promises
+
+- [x] Uso de funções assíncronas (async/await)
