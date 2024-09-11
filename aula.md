@@ -77,3 +77,7 @@ meta.log(meta.value)
 
 //function criarMeta() {}
 ## -----------------------------------------------
+
+# Estrutura de repetição
+
+- [x]while
