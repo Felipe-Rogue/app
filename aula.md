@@ -67,3 +67,13 @@ console.log(mensagem);
 - [x] criar, passar argumento
 - [x] executar
 - [x] arrow function / named function
+
+## Exemplos JS 2:
+meta.value = "não é mais ler um livro"
+meta.log(meta.value)
+
+// function   // arrow function
+//const criarMeta = () => {}
+
+//function criarMeta() {}
+## -----------------------------------------------
