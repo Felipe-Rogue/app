@@ -34,8 +34,9 @@ Apresentar os dados
 
 ## Operadores
 
-- [x] Operadores de atribuição de valor
-- [x] Operador de concatenação 
+- [x] Operadores de atribuição de valor =
+- [x] Operador de concatenação +
+- [x] Operadores de comparação ==, !=, <, >, <=, >=
 
 ## Exemplos JS 1:
 
@@ -85,6 +86,7 @@ meta.log(meta.value)
 # Condicionais
 
 - [x] switch
+- [x] if/else
 
 ## Módulos em Node.js:
 
