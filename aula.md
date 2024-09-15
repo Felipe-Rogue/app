@@ -94,6 +94,13 @@ meta.log(meta.value)
 
 - [x] Importação de módulos (require, CommonJS)
 - [x] Biblioteca 'inquirer' para criar prompts interativos
+- [x] FS (file system)
+
+## JSON
+
+- [x] Javascript Object Notation (.json)
+- [x] JSON.parse(): transforma de JSON para JS
+- [x] JSON.stringfy(): transforma de JS para JSON
 
 ## Programação assíncronas e Promises
 
